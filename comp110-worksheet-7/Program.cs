@@ -11,7 +11,7 @@ namespace comp110_worksheet_7
 	{
 		static void Main(string[] args)
 		{
-			const string c_baseDirectory = "../../../comp110-worksheet-7-tests/pixelcarpack_kenney/PNG";
+			const string c_baseDirectory = "C:/Users/Home/Desktop/Worksheet7/comp110-worksheet-7/comp110-worksheet-7-tests/pixelcarpack_kenney/PNG";
 
 			try
 			{
